@@ -90,7 +90,7 @@ button {
 }
 
 .form {
-  display: grid;
+  display: inline-block;
 }
 .form-label {
   display: flex;
